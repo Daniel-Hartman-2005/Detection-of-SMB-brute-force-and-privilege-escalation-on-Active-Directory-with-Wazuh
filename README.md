@@ -7,7 +7,7 @@ This project was conducted strictly in a controlled lab environment for educatio
 ## Lab Environment
 - Attacker Machine: Kali Linux
 - Target Machine: Domain Controller (Window Server 2019)
-- Tool: Nmap, NetExec, SMBClient, Wazuh
+- Tool: Nmap, NetExec, SMBClient, Impacket-psexec, Wazuh
 - Network Type: Isolated / Host-only Network
   
 ## Analysis flow
