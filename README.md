@@ -1,0 +1,2 @@
+# Detection-of-SMB-brute-force-and-privilege-escalation-on-Active-Directory-with-Wazuh
+Security monitoring lab designed to detect SMB brute-force attacks and privilege escalation within an Active Directory environment using Wazuh SIEM. Windows security logs are collected, centralized, and analyzed to identify failed authentication attempts, suspicious account creation, and administrative privilege changes.
